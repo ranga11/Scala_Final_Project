@@ -1,7 +1,261 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da836a76-6e9b-4eba-ac2b-52bb19bafd31" name="Default Changelist" comment="" />
+    <list default="true" id="da836a76-6e9b-4eba-ac2b-52bb19bafd31" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/play-scala-starter-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/play-scala-starter-example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=amazon/.part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=amazon/part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=apple/.part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=apple/part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=facebook/.part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=facebook/part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=google/.part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=google/part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=microsoft/.part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanyPredict/Names=microsoft/part-00000-b382c8a2-0e8d-4965-b07b-cbe22e784dc9.c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profit/.part-00000-dba307f5-2f45-41c7-9eb5-b119295f2b84-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profit/part-00000-dba307f5-2f45-41c7-9eb5-b119295f2b84-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$08865e3535310a7e37ca$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$08865e3535310a7e37ca.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$08865e3535310a7e37ca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$094f4cdf169e39e90a33$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$094f4cdf169e39e90a33.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$094f4cdf169e39e90a33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2b9336c72dfd7bb29f6b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2b9336c72dfd7bb29f6b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2b9336c72dfd7bb29f6b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2b9336c72dfd7bb29f6b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$31cfd5c4d6a46cfecbf9$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$31cfd5c4d6a46cfecbf9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$31cfd5c4d6a46cfecbf9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$31cfd5c4d6a46cfecbf9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$5c20d65b1d526ebfbfaa$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$5c20d65b1d526ebfbfaa.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$5c20d65b1d526ebfbfaa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$97c0bddf379abc0d873d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$97c0bddf379abc0d873d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$97c0bddf379abc0d873d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d43466bd4f256928c783$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d43466bd4f256928c783$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d43466bd4f256928c783.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d43466bd4f256928c783.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0cf051d880169b1c3543$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0cf051d880169b1c3543$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0cf051d880169b1c3543$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0cf051d880169b1c3543.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0cf051d880169b1c3543.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$230700869e895becd236$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$230700869e895becd236$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$230700869e895becd236.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$230700869e895becd236.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3842b6a9dd63d5c4fb1b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3842b6a9dd63d5c4fb1b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3842b6a9dd63d5c4fb1b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3842b6a9dd63d5c4fb1b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3f1c8905ca698bea6b0e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3f1c8905ca698bea6b0e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3f1c8905ca698bea6b0e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3f1c8905ca698bea6b0e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$474ff48bea301b0e8f4e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$474ff48bea301b0e8f4e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$474ff48bea301b0e8f4e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$474ff48bea301b0e8f4e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$480b747df624156710f9$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$480b747df624156710f9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$480b747df624156710f9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$480b747df624156710f9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d437a5886a26e2dfe30$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d437a5886a26e2dfe30$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d437a5886a26e2dfe30.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d437a5886a26e2dfe30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$698ede9c94105afc87cd$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$698ede9c94105afc87cd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$698ede9c94105afc87cd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$698ede9c94105afc87cd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$73afd59c36cf49f0b4ec$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$73afd59c36cf49f0b4ec$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$73afd59c36cf49f0b4ec.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$73afd59c36cf49f0b4ec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d04e712714c479ba27$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d04e712714c479ba27$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d04e712714c479ba27.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d04e712714c479ba27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$862cee1240387d299233$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$862cee1240387d299233$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$862cee1240387d299233.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$862cee1240387d299233.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87de669887bfc2631c65$$anonfun$root$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87de669887bfc2631c65$$anonfun$root$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87de669887bfc2631c65$$anonfun$root$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87de669887bfc2631c65$$anonfun$root$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87de669887bfc2631c65$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87de669887bfc2631c65.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87de669887bfc2631c65.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8d7b338a1f40a70fb19b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8d7b338a1f40a70fb19b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8d7b338a1f40a70fb19b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8d7b338a1f40a70fb19b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e3c217b42bb6f2bb385$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e3c217b42bb6f2bb385$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e3c217b42bb6f2bb385.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e3c217b42bb6f2bb385.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a17b28beb60cda9cadd9$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a17b28beb60cda9cadd9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a17b28beb60cda9cadd9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a17b28beb60cda9cadd9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a3505ad5eba4d00c181e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a3505ad5eba4d00c181e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a3505ad5eba4d00c181e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a3505ad5eba4d00c181e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a524fb472da36f60666f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a524fb472da36f60666f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a524fb472da36f60666f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a524fb472da36f60666f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7205c36651f6904ae2f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7205c36651f6904ae2f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7205c36651f6904ae2f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7205c36651f6904ae2f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aadc4582eecc5bbd472a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aadc4582eecc5bbd472a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aadc4582eecc5bbd472a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aadc4582eecc5bbd472a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abe8c119e5b9260da95e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abe8c119e5b9260da95e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abe8c119e5b9260da95e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abe8c119e5b9260da95e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ae6c50a18beb7249e04d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ae6c50a18beb7249e04d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ae6c50a18beb7249e04d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ae6c50a18beb7249e04d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afc95844e60ff3dcdc35$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afc95844e60ff3dcdc35$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afc95844e60ff3dcdc35.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afc95844e60ff3dcdc35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0dd3fb5fe824b8dae54$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0dd3fb5fe824b8dae54$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0dd3fb5fe824b8dae54.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b0dd3fb5fe824b8dae54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b318b9766ec4d55c798c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b318b9766ec4d55c798c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b318b9766ec4d55c798c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b318b9766ec4d55c798c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b72891d065d20cfdc8ba$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b72891d065d20cfdc8ba$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b72891d065d20cfdc8ba.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b72891d065d20cfdc8ba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c4814ba7de1c1960bae6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c4814ba7de1c1960bae6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c4814ba7de1c1960bae6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cbae45ad96d1cec7c857$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cbae45ad96d1cec7c857$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cbae45ad96d1cec7c857$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cbae45ad96d1cec7c857.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cbae45ad96d1cec7c857.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ce87c555ff81604fda2b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ce87c555ff81604fda2b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ce87c555ff81604fda2b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ce87c555ff81604fda2b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dafc0817788c19f2c715$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dafc0817788c19f2c715$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dafc0817788c19f2c715.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dafc0817788c19f2c715.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dce14f35707ef75aef2d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dce14f35707ef75aef2d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dce14f35707ef75aef2d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dce14f35707ef75aef2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e3057f6b11f00f4f8d5d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e3057f6b11f00f4f8d5d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e3057f6b11f00f4f8d5d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e3057f6b11f00f4f8d5d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ed264017837d95661323$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ed264017837d95661323$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ed264017837d95661323.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ed264017837d95661323.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ed58a8dff3a8f6e6c740$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ed58a8dff3a8f6e6c740$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ed58a8dff3a8f6e6c740.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ed58a8dff3a8f6e6c740.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/stock-market-prediction-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/stock-market-prediction-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/stock-market-prediction-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/stock-market-prediction-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-stock-market-prediction-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/play-scala-starter-example/play-scala-starter-example$sources_2.11/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/play-scala-starter-example/play-scala-starter-example$sources_2.11/1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/play-scala-starter-example/play-scala-starter-example$sources_2.11/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/play-scala-starter-example/play-scala-starter-example$sources_2.11/1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/play-scala-starter-example/play-scala-starter-example_2.11/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/play-scala-starter-example/play-scala-starter-example_2.11/1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/play-scala-starter-example/play-scala-starter-example_2.11/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/play-scala-starter-example/play-scala-starter-example_2.11/1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-debian.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-debian.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-docker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-docker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-linux.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-linux.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-rpm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-rpm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-universal-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-universal-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-universal-src.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-universal-src.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-universal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-universal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-windows.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example$sources_2.11-windows.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-debian.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-debian.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-docker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-docker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-linux.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-linux.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-rpm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-rpm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-universal-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-universal-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-universal-src.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-universal-src.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-universal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-universal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-windows.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/play-scala-starter-example-play-scala-starter-example_2.11-windows.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -126,9 +380,42 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-623288108">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="5" />
+          <entry key="sbtShell" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/FunctionalSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -173,17 +460,18 @@
         <option value="$PROJECT_DIR$/Stock-Market-Prediction/app/services/SparkTsService.scala" />
         <option value="$PROJECT_DIR$/test/Util/TimeseriesTest.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/test/FunctionalSpec.scala" />
         <option value="$PROJECT_DIR$/app/services/SparkTsService.scala" />
         <option value="$PROJECT_DIR$/app/Util/Timeseries.scala" />
         <option value="$PROJECT_DIR$/app/Util/TwitterMain.scala" />
         <option value="$PROJECT_DIR$/test/Util/CalcAvgScoreTest.scala" />
+        <option value="$PROJECT_DIR$/test/FunctionalSpec.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="112" />
+    <option name="width" value="1294" />
+    <option name="height" value="834" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -192,6 +480,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,11 +488,15 @@
               <item name="play-scala-starter-example" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stock-Market-Prediction" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="play-scala-starter-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stock-Market-Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -224,34 +517,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.CalcAvgScoreTest">
-    <configuration name="TwitterMain" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Util.TwitterMain" />
-      <module name="play-scala-starter-example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Util in play-scala-starter-example" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="play-scala-starter-example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Util" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="ScalaTest.FunctionalSpec">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="play-scala-starter-example" />
       <option name="VM_PARAMETERS" />
@@ -333,6 +599,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FunctionalSpec.Routes should send 404 on a bad request" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="play-scala-starter-example" />
+      <setting name="path" value="FunctionalSpec" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="FunctionalSpec" />
+      <setting name="testName" value="Routes should send 404 on a bad request" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalSpec.Routes should send 404 on a bad request&#10;Routes should send 200 on a good request" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="play-scala-starter-example" />
+      <setting name="path" value="FunctionalSpec" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="FunctionalSpec" />
+      <setting name="testName" value="Routes should send 404 on a bad request&#10;Routes should send 200 on a good request" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScalaTests in 'test'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true">
       <module name="play-scala-starter-example" />
       <setting name="path" value="" />
@@ -359,18 +661,18 @@
     </configuration>
     <list>
       <item itemvalue="ScalaTest.FunctionalSpec" />
-      <item itemvalue="JUnit.Util in play-scala-starter-example" />
       <item itemvalue="ScalaTest.CalcAvgScoreTest" />
       <item itemvalue="ScalaTest.ScalaTests in 'test'" />
-      <item itemvalue="Application.TwitterMain" />
+      <item itemvalue="ScalaTest.FunctionalSpec.Routes should send 404 on a bad request&#10;Routes should send 200 on a good request" />
+      <item itemvalue="ScalaTest.FunctionalSpec.Routes should send 404 on a bad request" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="ScalaTest.CalcAvgScoreTest" />
-        <item itemvalue="ScalaTest.ScalaTests in 'test'" />
         <item itemvalue="ScalaTest.FunctionalSpec" />
-        <item itemvalue="Application.TwitterMain" />
-        <item itemvalue="JUnit.Util in play-scala-starter-example" />
+        <item itemvalue="ScalaTest.FunctionalSpec.Routes should send 404 on a bad request&#10;Routes should send 200 on a good request" />
+        <item itemvalue="ScalaTest.FunctionalSpec.Routes should send 404 on a bad request" />
+        <item itemvalue="ScalaTest.ScalaTests in 'test'" />
+        <item itemvalue="ScalaTest.CalcAvgScoreTest" />
       </list>
     </recent_temporary>
   </component>
@@ -387,11 +689,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="root [file:/Users/vinyaskaushiktr/Downloads/scalaproject/Stock-Market-Prediction/]" />
+                <option name="name" value="root [file:/Users/vinyaskaushiktr/Downloads/scalaproject/Scala_Final_Project/Stock-Market-Prediction/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="root-build [file:/Users/vinyaskaushiktr/Downloads/scalaproject/Stock-Market-Prediction/]" />
+                <option name="name" value="root-build [file:/Users/vinyaskaushiktr/Downloads/scalaproject/Scala_Final_Project/Stock-Market-Prediction/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -439,35 +741,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalcAvgScoreTest - 2018.12.15 at 01h 37m 26s.xml">
-      <configuration name="CalcAvgScoreTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FunctionalSpec - 2018.12.15 at 01h 43m 24s.xml">
+    <history-entry file="FunctionalSpec - 2018.12.15 at 02h 23m 14s.xml">
       <configuration name="FunctionalSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="CalcAvgScoreTest - 2018.12.15 at 01h 44m 22s.xml">
-      <configuration name="CalcAvgScoreTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Util_in_play-scala-starter-example - 2018.12.15 at 01h 44m 29s.xml">
-      <configuration name="Util in play-scala-starter-example" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ScalaTests_in_'test' - 2018.12.15 at 01h 45m 43s.xml">
+    <history-entry file="ScalaTests_in_'test' - 2018.12.15 at 02h 25m 18s.xml">
       <configuration name="ScalaTests in 'test'" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FunctionalSpec - 2018.12.15 at 01h 48m 06s.xml">
+    <history-entry file="FunctionalSpec - 2018.12.15 at 02h 25m 38s.xml">
       <configuration name="FunctionalSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FunctionalSpec - 2018.12.15 at 01h 48m 31s.xml">
+    <history-entry file="FunctionalSpec - 2018.12.15 at 02h 25m 43s.xml">
       <configuration name="FunctionalSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FunctionalSpec - 2018.12.15 at 01h 57m 42s.xml">
+    <history-entry file="FunctionalSpec - 2018.12.15 at 02h 25m 48s.xml">
       <configuration name="FunctionalSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ScalaTests_in_'test' - 2018.12.15 at 01h 58m 44s.xml">
-      <configuration name="ScalaTests in 'test'" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="FunctionalSpec_Routes_should_send_404_on_a_bad_request_Routes_should_send_200_on_a_good_request - 2018.12.15 at 02h 28m 16s.xml">
+      <configuration name="FunctionalSpec.Routes should send 404 on a bad request&#10;Routes should send 200 on a good request" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="CalcAvgScoreTest - 2018.12.15 at 01h 59m 35s.xml">
-      <configuration name="CalcAvgScoreTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="FunctionalSpec_Routes_should_send_404_on_a_bad_request_Routes_should_send_200_on_a_good_request - 2018.12.15 at 02h 28m 51s.xml">
+      <configuration name="FunctionalSpec.Routes should send 404 on a bad request&#10;Routes should send 200 on a good request" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FunctionalSpec_Routes_should_send_404_on_a_bad_request - 2018.12.15 at 02h 29m 13s.xml">
+      <configuration name="FunctionalSpec.Routes should send 404 on a bad request" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FunctionalSpec_Routes_should_send_404_on_a_bad_request_Routes_should_send_200_on_a_good_request - 2018.12.15 at 02h 29m 26s.xml">
+      <configuration name="FunctionalSpec.Routes should send 404 on a bad request&#10;Routes should send 200 on a good request" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="FunctionalSpec - 2018.12.15 at 02h 32m 40s.xml">
+      <configuration name="FunctionalSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -480,9 +782,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="112" y="23" width="1294" height="834" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21459228" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3370607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -494,17 +796,17 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7782546" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6709265" weight="0.36657682" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" sideWeight="0.4968051" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291815" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22174536" side_tool="true" visible="true" weight="0.32771084" />
-      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.49785408" weight="0.32891566" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49427754" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50399363" side_tool="true" visible="true" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Build" order="11" sideWeight="0.4960064" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49142858" weight="0.32884097" />
       <window_info anchor="bottom" id="DB Execution Console" order="13" />
       <window_info anchor="bottom" id="Console" order="14" />
       <window_info anchor="bottom" id="SBT Console" order="15" />
@@ -541,49 +843,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/AAPL_data_train.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/AAPL_ToBe.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Facebook.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/FB_data_train.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2342" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/FB_ToBe.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/GOOGL_data_train.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8860">
-          <caret line="1167" column="56" lean-forward="true" selection-start-line="1167" selection-start-column="56" selection-end-line="1167" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/twitter.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stocks.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6940" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/MSFT_ToBe.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/AAPL_data_train.csv" />
+    <entry file="file://$PROJECT_DIR$/public/AAPL_ToBe.csv" />
+    <entry file="file://$PROJECT_DIR$/public/Facebook.csv" />
+    <entry file="file://$PROJECT_DIR$/public/FB_data_train.csv" />
+    <entry file="file://$PROJECT_DIR$/public/FB_ToBe.csv" />
+    <entry file="file://$PROJECT_DIR$/public/GOOGL_data_train.csv" />
+    <entry file="file://$PROJECT_DIR$/public/twitter.csv" />
+    <entry file="file://$PROJECT_DIR$/public/stocks.csv" />
+    <entry file="file://$PROJECT_DIR$/public/MSFT_ToBe.csv" />
     <entry file="file://$PROJECT_DIR$/test/Util/TimeseriesTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -591,20 +859,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/profit.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/profit.csv" />
+    <entry file="file://$PROJECT_DIR$/build.sbt" />
     <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-557">
@@ -668,16 +924,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter/part-00000-e1ca919f-77dc-4c41-a33a-46042acb3ce4-c000.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/part-00000-e1ca919f-77dc-4c41-a33a-46042acb3ce4-c000.csv" />
     <entry file="file://$PROJECT_DIR$/test/Util/CalcAvgScoreTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -689,19 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="e#13#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/FunctionalSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,21 +981,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-505">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/test-sbt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/test-gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/script-helper">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test-sbt" />
+    <entry file="file://$PROJECT_DIR$/scripts/test-gradle" />
+    <entry file="file://$PROJECT_DIR$/scripts/script-helper" />
     <entry file="file://$PROJECT_DIR$/app/Module.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -773,6 +998,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/FunctionalSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
