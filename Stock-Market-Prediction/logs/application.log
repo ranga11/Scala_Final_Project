@@ -1,4 +1,0 @@
-2018-12-14 16:00:29,656 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-4 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
-2018-12-14 16:00:29,966 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-4 - ApplicationTimer demo: Starting application at 2018-12-14T21:00:29.963Z.
-2018-12-14 16:00:30,004 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-4 - application.conf @ file:/C:/Users/Ranga%20Chari/Desktop/Scala%20Assignemnets/FINAL_Stock/Stock-Market-Prediction/target/scala-2.11/classes/application.conf: 43: play.crypto.secret is deprecated, use play.http.secret.key instead
-2018-12-14 16:00:30,470 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev)
