@@ -4,8 +4,8 @@ Sentiment Analysis of News/Social Media feeds on Stock Market
 This is the CSYE7200 Big Data Systems Engineering Using Scala Final Project for Team 10 Fall 2018
 
 # Team members:
-Vinyas Kaushik Tumakunte Raghavendrarao -> tumakunteraghaven.v@husky.neu.edu
-Ranga Chari Vinjamuri  -> vinjamuri.r@husky.neu.edu
+1. Vinyas Kaushik Tumakunte Raghavendrarao -> tumakunteraghaven.v@husky.neu.edu
+2. Ranga Chari Vinjamuri  -> vinjamuri.r@husky.neu.edu
 
 # Methodology
 
